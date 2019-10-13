@@ -1,0 +1,2 @@
+# ArdunioObstacleAvoidingCar CODE
+Obstacle avoiding car is a ardunio controlled car which avoids obstacle when any object is come in front of it.Obstacle avoiding car detects obstacle with the help of HC-SR04(Ultrasonic sensor).In this project i use 1 L298n,1 Ultrasonicsenor, 1 servo motor,wheels , jumper wires,batteries.In this project i put the ultrasonic sensor on the servo motor to rotate the head of my controlled car for detecting the obstacle around it.The extension of ardunio code file is in (.ino).
